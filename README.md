@@ -2,9 +2,32 @@
 
 ## Escuela de Desarrollo Web by Platzi - Huddle landing page with single introductory section
 
-![Vista previa del diseño de la página de inicio de Huddle con una única sección introductoria](./design/desktop-preview.png)
+## ✍🏻 Description
 
-**Para realizar este reto, necesita un conocimiento básico de HTML y CSS.**
+Mejoré mis habilidades CSS con este desafío y estoy muy orgulloso del resultado final.
+
+## 🎨 Preview
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](./design/desktop-design.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+
+![](./design/mobile-design.png)
+
+</details>
+
+## 👩🏻‍💻 Technologies
+
+1. HTML
+2. CSS
+
+   **Para realizar este reto, necesita un conocimiento básico de HTML y CSS.**
 
 ## Creditos por el diseño y reto.
 

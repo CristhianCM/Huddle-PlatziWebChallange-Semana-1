@@ -1,4 +1,4 @@
-# Huddle-PlatziWebChallange-Semana-1
+# WebChallange-1
 
 ## Escuela de Desarrollo Web by Platzi - Huddle landing page with single introductory section
 
@@ -29,6 +29,12 @@ Mejoré mis habilidades CSS con este desafío y estoy muy orgulloso del resultad
 
    **Para realizar este reto, necesita un conocimiento básico de HTML y CSS.**
 
-## Creditos por el diseño y reto.
+## 😼 Creditos por el diseño y reto.
 
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io)
+
+### 👌 Open page
+
+Visit [GitHub_Page_Website](https://cristhiancm.github.io/Huddle-PlatziWebChallange-Semana-1/)
+
+![Image text]()

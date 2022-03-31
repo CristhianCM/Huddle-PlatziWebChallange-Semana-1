@@ -35,6 +35,6 @@ Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.fronten
 
 ### 👌 Open page
 
-Visit [GitHub_Page_Website](https://cristhiancm.github.io/Huddle-PlatziWebChallange-Semana-1/)
+Visit [GitHub_Page_WebChallange-1](https://cristhiancm.github.io/Huddle-PlatziWebChallange-Semana-1/)
 
-![Image text]()
+![Image text](https://github.com/CristhianCM/Huddle-PlatziWebChallange-Semana-1/blob/main/images/Challenge_Finish.png)
